@@ -13,3 +13,5 @@ The sript should be used as a template for future NodeJS apps. Pls refer to indi
     b. Write Only(**_W**)  
     c. Read/Write(**_RW**)  
 6. Constants    : `CAPITALIZED_SNAKECASE` e.g. `MAX_POWER`
+
+### Refer to Wiki for more information
