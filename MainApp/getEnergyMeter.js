@@ -2,8 +2,8 @@
 //
 // IMPORTANT INFORMATION:
 //
-// Energy Meter		: Socomec Multis L50
-// Modbus Device	: Socomec Diris A20 (RS-485)
+// Energy Meter		: Mikro DPM380
+// Modbus Device	: Mikro DPM380
 //
 // NOTE: Pls change the register definition according to datasheet.
 //
