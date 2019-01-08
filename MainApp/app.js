@@ -1,24 +1,15 @@
 //**********************************************************************
 //
-// Copyright (c) 2017-2018 Plus NRG Systems Sdn. Bhd.
-//
-// This software should be used as a template for future NodeJS apps. 
-// Pls refer to individual modules for more information. To ensure
-// quality, any update or modification on any modules should be verified
-// and approved before deployment to project sites.
+// NPM MODULES
 //
 //**********************************************************************
 //
-// MODULES
-//
-// 1. Energy Parameters Query - COMPLETE (REZA)
-// 2. Smartlogger Parameters Query - COMPLETE (REZA)
-// 3. CONTROLLING MODBUS DEVICES - COMPLETE (REZA)
-// 4. DATABASE - COMPLETE (REZA)
-// 5. OFFLINE DATA MANAGEMENT - COMPLETE (REZA)
-// 6. AUTO STARTUP NODE SCRIPT - COMPLETE (REZA)
-//
-// Just wishful thinking - what if we could initiate through Firebase & GUI/HMI
+// 1. Energy Parameters Query
+// 2. Smartlogger Parameters Query
+// 3. CONTROLLING MODBUS DEVICES
+// 4. DATABASE
+// 5. OFFLINE DATA MANAGEMENT
+// 6. AUTO STARTUP NODE SCRIPT
 //
 //**********************************************************************
 
@@ -33,7 +24,7 @@ const firebase = require("firebase");
 
 //**********************************************************************
 //
-// ADDITIONAL MODULES
+// ADD-ON MODULES
 //
 //**********************************************************************
 
