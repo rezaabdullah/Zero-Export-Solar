@@ -1,6 +1,5 @@
 # NodeJS App for Zero Export
 
-###### Copyright (c) 2017-2018 Plus NRG Systems Sdn. Bhd.
 The sript should be used as a template for future NodeJS apps. Pls refer to individual modules for more information. To ensure quality, any update or modification on any modules should be verified and approved before deployment to project sites.
 
 ### *Coding Convention*
