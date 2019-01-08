@@ -2,8 +2,8 @@
 //
 // IMPORTANT INFORMATION:
 //
-// Smnartlogger		:	Huawei SUN2000
-// Inverter			: 	HUawei
+// Smnartlogger		: Huawei SUN2000
+// Inverter		: HUawei
 //
 // NOTE: Pls change the register definition according to datasheet.
 //
